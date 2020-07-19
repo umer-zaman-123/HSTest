@@ -51,7 +51,7 @@ public class Test_Delete_PET {
 		//Verify Status code
 		Assertions.assertThat(status_code).isEqualTo(200);
 		
-		//Response Body data
+		//Response Body
 		String response_Body = response.asString();
 		System.out.println("Response of DELETE request is :  " + response_Body);		
 	}
