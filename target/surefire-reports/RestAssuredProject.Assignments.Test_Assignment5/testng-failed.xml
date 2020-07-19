@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [RestAssuredProject.Assignments.Test_Assignment5]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="RestAssuredProject.Assignments.Test_Assignment5">
+        <methods>
+          <include name="Excel"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- RestAssuredProject.Assignments.Test_Assignment5 -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [RestAssuredProject.Assignments.Test_Assignment5] -->

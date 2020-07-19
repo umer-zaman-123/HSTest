@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 117.464 sec <<< FAILURE!
+get_pet_by_id(RestAssuredProject.Assignments.Test_Get_Pets_Using_ID)  Time elapsed: 20.237 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[200]> but was:<[404]>
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at RestAssuredProject.Assignments.Test_Get_Pets_Using_ID.get_pet_by_id(Test_Get_Pets_Using_ID.java:59)
+

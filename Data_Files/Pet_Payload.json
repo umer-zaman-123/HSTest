@@ -1,0 +1,18 @@
+{
+    "id": 2019,
+    "category": {
+        "id": 0,
+        "name": "dog"
+    },
+    "name": "Flatty",
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "Black Fury"
+        }
+    ],
+    "status": "pending"
+}
