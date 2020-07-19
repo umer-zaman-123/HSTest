@@ -3,12 +3,12 @@
 <suite verbose="0" name="Failed suite [Command line suite]">
   <test thread-count="5" verbose="0" name="Command line test(failed)">
     <classes>
-      <class name="RestAssuredProject.Assignments.Test_Get_Pets_Using_ID">
+      <class name="RestAssuredProject.Assignments.Test_Get_Pet_Using_ID">
         <methods>
           <include name="get_pet_by_id"/>
           <include name="SetUp"/>
         </methods>
-      </class> <!-- RestAssuredProject.Assignments.Test_Get_Pets_Using_ID -->
+      </class> <!-- RestAssuredProject.Assignments.Test_Get_Pet_Using_ID -->
     </classes>
   </test> <!-- Command line test(failed) -->
 </suite> <!-- Failed suite [Command line suite] -->
